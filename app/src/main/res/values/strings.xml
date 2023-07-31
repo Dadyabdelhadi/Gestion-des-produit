@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">java_revesion</string>
+
+    <string-array name="Categorie">
+        <item  > produit local</item>
+        <item  > Emporter de leurope</item>
+        <item  > produit de lasit</item>
+    </string-array>
+
+    <string-array name="produit">
+        <item  > Ordinateur</item>
+        <item  > Imprimante 3D</item>
+        <item  > Videoprojecteur</item>
+        <item  > photocopeur</item>
+    </string-array>
+</resources>
